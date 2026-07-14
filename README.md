@@ -58,7 +58,8 @@ The architecture provides:
 
 # 🏗️ Architecture Diagram
 
-![Architecture](architecture/architecture-diagram.png)
+<img width="1536" height="1024" alt="Architecture diagram" src="https://github.com/user-attachments/assets/d5d7cd58-9302-4e1a-ade7-72a31f433bb0" />
+
 
 ---
 
