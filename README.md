@@ -185,61 +185,70 @@ AWS-3tier-web-application/
 
 ## 💻 Employee Management System
 
-![Website Output](screenshots/Website%20output.png)
+<img width="1920" height="1080" alt="Website output" src="https://github.com/user-attachments/assets/d968ac76-b252-4ddb-8c12-3628266d7894" />
 
 ---
 
 ## 🌐 Amazon VPC
 
-![VPC](screenshots/VPC.png)
+<img width="1920" height="1080" alt="VPC" src="https://github.com/user-attachments/assets/6c741bc9-fc0b-47ea-849f-5caf79f8fce3" />
+
 
 ---
 
 ## 🌍 Public & Private Subnets
 
-![Subnets](screenshots/Subnets.png)
+<img width="1920" height="1080" alt="Subnets" src="https://github.com/user-attachments/assets/c93d53f3-5ec2-4f2c-be3d-758de35a7fd9" />
+
 
 ---
 
 ## ⚖️ Load Balancers
 
-![Load Balancers](screenshots/LOAD%20BALANCERS.png)
+<img width="1920" height="1080" alt="LOAD BALANCERS" src="https://github.com/user-attachments/assets/0663a63f-427b-4ff4-bc04-ea6492f01885" />
+
 
 ---
 
 ## 📈 Auto Scaling Groups
 
-![ASG](screenshots/ASG.png)
+<img width="1920" height="1080" alt="ASG" src="https://github.com/user-attachments/assets/11082d33-6c98-49d3-a499-55d2a4ae69a0" />
+
 
 ---
 
 ## 🖥️ EC2 Instances
 
-![EC2 Instances](screenshots/EC2%20Instances.png)
+<img width="1920" height="1080" alt="EC2  (1)" src="https://github.com/user-attachments/assets/e6bf280c-f559-48e9-a226-cf1cf8cbc36c" />
+
 
 ---
 
 ## ⚙️ EC2 Configuration
 
-![EC2](screenshots/EC2%20(1).png)
+<img width="1920" height="1080" alt="EC2 Instances" src="https://github.com/user-attachments/assets/3064f675-54dc-4e49-8032-78ddd58c5161" />
+
 
 ---
 
 ## 🗄️ Amazon RDS Database
 
-![RDS](screenshots/RDS%20Database.png)
+<img width="1920" height="1080" alt="RDS Database" src="https://github.com/user-attachments/assets/24f2d450-0242-4151-b294-e606af0f7d91" />
+
 
 ---
 
 ## 🔒 Security Groups
 
-![Security Groups](screenshots/Security%20groups.png)
+<img width="1920" height="1080" alt="Security groups" src="https://github.com/user-attachments/assets/7feceb2e-bd22-4670-9fc7-47e57da78b05" />
+
 
 ---
 
 ## 🌍 Amazon Route 53
 
-![Route 53](screenshots/Route%2053.png)
+<img width="1920" height="1080" alt="Route 53" src="https://github.com/user-attachments/assets/17141405-9364-404b-9054-bf098b05145a" />
+
 
 ---
 
