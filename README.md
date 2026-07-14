@@ -356,17 +356,5 @@ AWS-3tier-web-application/
 
 Cloud & DevOps Enthusiast
 
-### Skills
-
-- AWS Cloud
-- Linux
-- Python
-- DevOps
-- Networking
-- Apache
-- Flask
-- MySQL
-
----
 
 ## ⭐ If you found this project useful, please consider giving it a Star!
